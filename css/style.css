@@ -106,7 +106,7 @@ main .container .hr{
     max-width: 300px;
 }
 .cart .footer-cart{
-    height: 130px;
+    height: 100px;
     display: flex;
     justify-content: end;
     align-items: end;
