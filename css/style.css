@@ -65,7 +65,7 @@ main .container .hr{
 }
 .cart{
     background-color:white;
-    padding: 20px;
+    padding:100px;
     width:400px;
     position: relative;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
@@ -95,7 +95,7 @@ main .container .hr{
 }
 
 .cart .head-cart h3{
-    font-size: 25px;
+    font-size: 22px;
     margin-bottom: 20px;
     font-weight: 600;
 }
